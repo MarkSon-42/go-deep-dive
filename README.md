@@ -52,4 +52,6 @@ A deep dive into the core concepts and unique characteristics of the Go programm
 
 ---
 
+04.24 defer, Goroutine
+
 ## 기회가 된다면 이후, github.io로 전환하여 기술 블로그 작성..
